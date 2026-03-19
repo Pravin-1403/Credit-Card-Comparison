@@ -1,0 +1,14 @@
+# frontend
+frontend/node_modules/
+frontend/build/
+
+# backend
+backend/__pycache__/
+*.pyc
+backend/.env
+
+# misc
+.DS_Store
+memory/
+test_reports/
+tests/
